@@ -1,0 +1,7 @@
+.idea/
+mytests/
+out/
+tests/
+tests2/
+tests_wm/
+*.iml
