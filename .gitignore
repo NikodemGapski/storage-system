@@ -1,7 +1,7 @@
 .idea/
 mytests/
 out/
-tests/
+_tests/
 tests2/
 tests_wm/
 *.iml
